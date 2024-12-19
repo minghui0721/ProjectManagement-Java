@@ -1,0 +1,8 @@
+TP001|123|Gan|Ming Hui|ganmingui000@gmail.com|Male|Parkhill|019-924-2344|APU2F2402SE|039821-03-3742
+TP002|123|Shuen|Chua|chuashuen@gmail.com|Male|Puchong|018-665-7788|APU2F2402SE|030977-54-3345
+TP003|123|Alan|Chong|alanchong@gmail.com|Male|Kepong|013-443-4554|APU2F2402CS(CYB)|020344-55-6778
+TP004|123|Zi Chien|Lim|Zichien814@gmail.com|Male|Taman Connaught|017-545-9885|APU2F2402CS(CYB)|030814-06-0625
+TP005|123|Dyaniel|Ching Chee Xiong|dyaniel@gmail.com|Male|Sungai besi|011-123-1232|APU2F2402CS(CYB)|041001-01-1222
+TP006|123|Lee|Jia Jun|lee@gmail.com|Male|Parkhill Residence Kuala Lumpur|011-900-5252|APU2F2402CS(AI)|031001-01-8787
+TP007|111|Choo|Wei Chong|weichung@gmail.com|Male|100, Jalan Diamond, 22300 Cheras, Kuala Lumpur|014-993-4333|APU2F2402SE|020201-10-2911
+TP008|123|Au|Jing Yee|jingyee@gmail.com|Female|813, Jalan 10/1a, 51359 Kepong, Kuala Lumpur|018-838-2442|APU2F2402SE|921242-23-1999

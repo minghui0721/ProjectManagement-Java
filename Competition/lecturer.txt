@@ -1,0 +1,6 @@
+SP001|111|Adena|Cossell|acossell@accuweather.com|Female|019-774-0098|830423-90-9978|E_Emerald Resident|1990|Supervisor|NULL
+SP002|bbb|Thaine|Cassine|tbush154@gmail.com|Female|014-554-5667|000923-98-0098|65 Jalan Arif, Taman Connaught|2010|Project Manager|NULL
+SP003|222|Lotte|Dungye|ldungey@gmail.com|Male|019-867-0088|780203-00-9845|Unit B2-23-7 Dsand Resident|2003|Second Marker|Available
+SP004|bbb|Toma|Bush|tbush154@gmail.com|Female|014-554-5667|000923-98-0098|65 Jalan Arif, Taman Connaught|2010|Second Marker|Available
+SP005|123|Jin Hui|Tham|tham@gmail.com|Female|011-123-1234|012122-01-1222|Parkhill Residence|2020|Lecturer|Available
+SP006|123|O|Ying Fang|yf@gmail.com|Female|012-121-1222|102812-22-9292|123, jalan yf, 62177 Kepong, KL|1999|Second Marker|Available
